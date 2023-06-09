@@ -1,0 +1,26 @@
+body{
+    background-color:#3f395c;
+    font-family:'poppins', sans-serif;
+    color: #f0c98e;
+    text-align: center;
+    margin: 0px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+footer{
+    background-color: #2d2943;
+}
+
+ul{
+    color: white;
+}
